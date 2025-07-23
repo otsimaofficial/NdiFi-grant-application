@@ -1,4 +1,11 @@
-# Uniswap V2 – Team Overview
+# Instructions
+
+- remove the instructions section when done
+- talk about the team and their experience
+- tell us about the special sauce that will make you successful
+- stay close to the recommended length (0.5 page)
+
+# Team
 
 ## Team and Experience
 

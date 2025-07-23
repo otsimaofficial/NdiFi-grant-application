@@ -1,4 +1,12 @@
-# Uniswap V2 – Go-To-Market Strategy
+# Instructions
+
+- remove the instructions section when done
+- talk about the assumptions that you make that convince you about the product market fit
+- explain to us your launch strategy
+- tell us what your anticipated traction and growth look like
+- stay close to the recommended length (1 page)
+
+# Market Analysis
 
 ## Assumptions for Product-Market Fit
 

@@ -1,4 +1,14 @@
-# Uniswap V2 – Technical Analysis
+# Instructions
+
+- remove the instructions section when done
+- provide brief technical outline of your project
+- make us understand the technical novelty in your solution
+- demonstrate the technical feasibility
+- talk about the required infrastructure needed
+- describe is the anticipated difficulty of executing 
+- stay close to the recommended length (2 pages)
+
+# 02. Technical Analysis
 
 ## Technical Outline
 
@@ -26,15 +36,10 @@ Uniswap V2 is a decentralized, Ethereum-based exchange protocol enabling the aut
 * **Security and Auditing:**
   Ethereum smart contracts provide transparency, immutability, and verifiability. The availability of professional auditing services and a community-driven security review ecosystem ensures vulnerabilities can be proactively identified and resolved.
 
-## Technology Stack
+## Required Infrastructure
 
-* **Blockchain:** Ethereum (Ethereum Virtual Machine – EVM)
-* **Smart Contract Language:** Solidity
-* **Contract Development Tools:** Truffle, Hardhat
-* **Testing and Simulation:** Ganache (local blockchain simulation), Mocha, Chai
-* **Front-end Interface:** React.js, Web3.js or Ethers.js
-* **Oracles and Data Feeds:** Native built-in price oracles (TWAP-based on-chain oracle)
-* **Version Control and Collaboration:** GitHub
+* **Oracles:** Native built-in price oracles (TWAP-based on-chain oracle)
+* **Subgraphs:** We need to index the on-chain data to provide a user-friendly interface and enable users to interact with the protocol.
 
 ## Anticipated Execution Difficulty
 

@@ -1,4 +1,13 @@
-# Uniswap V2 – Tokenomics Analysis
+# Instructions
+
+- remove the instructions section when done
+- if this section is not applicable, indicate that it is not applicable
+- describe the asset and value flow in your protocol if there is any
+- if there is a token, explain its the role and mechanic
+- if there is a token, provide the tokenomics
+- stay close to the recommended length (1 page)
+
+# 03. Economics and Token
 
 ## Protocol Economics
 
