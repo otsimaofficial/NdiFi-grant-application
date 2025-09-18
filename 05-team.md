@@ -1,23 +1,23 @@
-# Instructions
-
-- remove the instructions section when done
-- talk about the team and their experience
-- tell us about the special sauce that will make you successful
-- stay close to the recommended length (0.5 page)
-
 # Team
 
 ## Team and Experience
 
-* **Gandalf the Grey – Chief Architect**
-  Gandalf brings deep technical mastery and strategic foresight in decentralized systems architecture, with extensive experience in protocol design, cryptographic security, and blockchain governance. His proven track record in building resilient, trustless solutions is unmatched.
+* **Emmanuel Otsima Ogbu – Product Manager**
+  Otsima brings a rare fusion of technical expertise, brand intelligence, and solution engineering with 4 years extensive experience being an end user of web3 products and 1 years of Blockchain Development and smart contract auditing to help brands and businesses scale with precision and creativity.
 
-* **Aragorn – Product Lead**
-  Aragorn's leadership and product execution skills are central to the Uniswap V2 vision. With extensive experience leading diverse teams, managing complex projects, and driving user-centric product development, Aragorn ensures disciplined delivery aligned with user needs.
+* **Bright Bassy  – Lead Developer**
+  Bright specializes in identifying and mitigating vulnerabilities at the code level. He’s proficient in static analysis tools and formal verification methods, ensuring contracts are battle-tested against common exploits, reentrancy attacks, and logic bugs. His work ensures that user funds and data remain protected.
 
-* **Legolas – Lead Developer**
-  Legolas combines precise technical execution with exceptional agility in Ethereum smart contract development. Known for meticulous code quality, rapid iteration, and sharp debugging skills, he ensures Uniswap V2’s codebase remains secure, efficient, and reliable.
+* **Nathan Ndife Kosisochukwu — Lead Developer 2**
+  At NDI Finance, I serve as a Core Developer focused on building secure, efficient, and scalable decentralized finance protocols. My work centers on designing and implementing smart contracts that power the platform’s staking and lending features, ensuring they are robust, user-friendly, and cost-effective.
+
+* **isaac edoka – Chief Architect**
+ Isaac has solid technical knowledge and experience  working with decentralized systems architecture, also with experience in protocol design, cryptographic security, and blockchain governance. His track record in building resilient, trustless solutions is one to appreciate and admire.
+
 
 ## Special Sauce
+Every member of our team is fueled by curiosity and the excitement of building meaningful technology. Our north star is adoption and usability—we believe blockchain should be approachable and useful for everyone, not just the technically skilled.
 
-The team uniquely combines Gandalf’s visionary protocol expertise, Aragorn’s strategic product execution, and Legolas’s technical precision and agility—forming a resilient, innovative, and efficient unit positioned to revolutionize decentralized exchanges.
+At the moment, our core strength lies in development and technical execution. While we are yet to have a full team that includes marketers, designers, and creatives, this grant would provide us with the opportunity to bring those key roles onboard. With that support, we can move from strong prototypes to fully realized products that not only work but also reach, engage, and impact real users.
+
+Our vision is clear: to build dApps that don’t just exist in the blockchain ecosystem but shape it, inspire trust, and drive meaningful adoption. This grant is the bridge that will allow us to expand beyond code—into design, storytelling, and user experience—so that our solutions can come to life in the way they are truly meant to
